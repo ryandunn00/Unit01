@@ -1,0 +1,17 @@
+commit 0da680a48973415463436cf6582bdc1893f2fc05
+Author: Ryan Dunn <rydunn19@gmail.com>
+Date:   Wed Aug 24 11:39:50 2022 -0400
+
+    screenshot
+
+commit c4fb398a5974d56c28dfa3779bcd760b88b099b8
+Author: Ryan Dunn <rydunn19@gmail.com>
+Date:   Wed Aug 24 11:21:33 2022 -0400
+
+    added my hometown
+
+commit 58e595dbf74a535ccb9248df9a820df38c0b1322
+Author: Ryan Dunn <rydunn19@gmail.com>
+Date:   Wed Aug 24 11:03:56 2022 -0400
+
+    Talking a little bit about myself
