@@ -1,0 +1,3 @@
+Ryan Dunn
+
+After trying to use git workflow on an empty directory, it would get stuck on git commit
