@@ -1,6 +1,3 @@
-commit 0da680a48973415463436cf6582bdc1893f2fc05
-Author: Ryan Dunn <rydunn19@gmail.com>
-Date:   Wed Aug 24 11:39:50 2022 -0400
 
     screenshot
 
