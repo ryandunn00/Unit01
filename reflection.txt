@@ -1,0 +1,1 @@
+One thing I learned today is more commands and functionality using git. Such as git restore and git history. One thing I wish I knew more about is just being more confotable with the git workflow. One question I have about todays class is how to use this for my own practical use.
