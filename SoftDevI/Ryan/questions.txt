@@ -1,3 +1,5 @@
 Ryan Dunn
 
 After trying to use git workflow on an empty directory, it would get stuck on git commit
+
+When I moved questions.txt the new directory was present and there is only one copy of questions.txt. II think this is because it was moved and not copied so there is only one:
